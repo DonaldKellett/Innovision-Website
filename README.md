@@ -1,0 +1,5 @@
+Innovision Website (Kellett JA Company Programme 2014-2015)
+===========================================================
+This website was once used for the JA Company Programme 2014-2015 at Kellett.  Our company was called "Innovision".  Here, you can download all the code that was once in the Innovision site.
+Please note that all links have already been disabled except for the attributions to HTML5 UP, because the Creative Commons 3.0 Attributions License requires me to do so.  Also, please note that the actual Innovision site (http://kellettjainnovision.github.io) will be deleted in the near future, because the Innovision GitHub Account will be deleted once the website is rendered useless.
+To view the webpage, you do not need to have an Internet connection - simply drag the index.html file to a browser and it will read the file automatically.
